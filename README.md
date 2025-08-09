@@ -10,3 +10,6 @@
 
 这是他自己写的的引擎 https://github.com/3b1b/manim，B站上也能够搜到一些教程。
 
+<img width="1666" height="395" alt="image" src="https://github.com/user-attachments/assets/527d3bff-9634-4611-878a-3de91387e290" />
+
+
